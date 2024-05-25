@@ -1,0 +1,36 @@
+<ornekpersonellistesi>
+    <person1>
+        <name>onur acikgoz</name>
+        <age>29</age>
+        <hobbies>
+            <spor>basketball,swimming,bicycle</spor>
+            <müzik>guitar,piano</müzik>
+            <doga>camp,trekking</doga>
+        </hobbies>
+        <city>Adana</city>
+        <email>onurblabla@bla.com</email>
+        <luckynumber>"9"</luckynumber>
+    </person1>
+
+    <person2>
+        <name>irem okan</name>
+        <age>33</age>
+        <hobbies>
+            <spor>tennis,dancing</spor>
+        </hobbies>
+        <city>Ankara</city>
+        <email>iremblabla@bla.com</email>
+        <luckynumber>"24"</luckynumber>
+    </person2>
+
+    <person3>
+        <name>ülkü değer</name>
+        <age>22</age>
+        <hobbies>
+            <müzik>singer,guitarist</müzik>
+        </hobbies>
+        <city>İstanbul</city>
+        <email>ülküdeger@bla.com</email>
+        <luckynumber>"11"</luckynumber>
+    </person3>
+</ornekpersonellistesi>

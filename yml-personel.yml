@@ -1,0 +1,33 @@
+personellist:
+  person1:
+    name: onur acikgoz
+    age: 29
+    hobbies:
+      spor: basketball,swimming,bicycle
+      müzik: guitar,piano,
+      doga: camp,trekking
+    city: Adana
+    email: onurblabla@bla.com
+    luckynumber: "9"
+
+  person2:
+    name: irem okan
+    age: 33
+    hobbies:
+      spor: tennis,dancing
+    city: Adana
+    email: iremblabla@bla.com
+    luckynumber: "24"
+
+  person3:
+    name: ülkü deger
+    age: 33
+    hobbies:
+      spor: tennis,dancing
+    city: Adana
+    email: ülküdeger@bla.com
+    luckynumber: "11"
+
+
+
+

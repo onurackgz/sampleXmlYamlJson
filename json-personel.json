@@ -1,0 +1,36 @@
+{
+  "örnek personel listesi": {
+    "person1": {
+      "name1": "Onur Acikgoz",
+      "age": 29,
+      "hobbies": {
+        "spor": "basketball,swimming, bicycle",
+        "müzik": "guitar,piano,",
+        "doğa": "camp,trekking"
+      },
+      "city": "Adana",
+      "email": "onurblabla@bla.com",
+      "luckynumber": "9"
+    },
+    "person2": {
+      "name2": "İrem Okan",
+      "age": 32,
+      "hobbies": {
+        "spor": "tennis,dancing"
+      },
+      "city": "Ankara",
+      "email": "iremblabla@bla.com",
+      "luckynumber": "24"
+    },
+    "person3": {
+      "name3": "Ülkü Değer",
+      "age": 22,
+      "hobbies": {
+        "müzik": "singer, guitarist"
+      },
+      "city": "İstanbul",
+      "email": "ülküdeger@bla.com",
+      "luckynumber": "11"
+    }
+  }
+}
