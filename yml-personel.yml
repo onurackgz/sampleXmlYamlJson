@@ -8,7 +8,7 @@ personellist:
       doga: camp,trekking
     city: Adana
     email: onurblabla@bla.com
-    luckynumber: "9"
+    luckynumber: '9'
 
   person2:
     name: irem okan
@@ -17,7 +17,7 @@ personellist:
       spor: tennis,dancing
     city: Adana
     email: iremblabla@bla.com
-    luckynumber: "24"
+    luckynumber: '24'
 
   person3:
     name: ülkü deger
